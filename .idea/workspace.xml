@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06623342-7035-4d19-9856-e7e8b51bbe9e" name="Default Changelist" comment="" />
+    <list default="true" id="8ffdfaa5-7225-4112-81eb-d19cc92ba087" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/xcformat/command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xcformat/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xcformat/formater.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/xcformat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xcformat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xcformat/xcformat.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/xcformat/xcformat.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xcformat" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,26 +23,27 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.12.6/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1PVrT9lnALfX8XB2vtju1gx7vlL" />
+  <component name="ProjectId" id="1PeGPNJWIh6dF5BLsmCbMXp646P" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
-    <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="go.dep" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,6 +56,21 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build xcformat" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="xcformat" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/src/xcformat/xcformat.go" />
+      <directory value="$PROJECT_DIR$/src/xcformat" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build xcformat" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -64,7 +88,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="rename file name" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename file name" />
   </component>
 </project>
