@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ffdfaa5-7225-4112-81eb-d19cc92ba087" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/xcformat/command.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xcformat/file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xcformat/formater.go" afterDir="false" />
+    <list default="true" id="06623342-7035-4d19-9856-e7e8b51bbe9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xcformat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xcformat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xcformat/xcformat.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/xcformat/xcformat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xcformat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/xcformat" beforeDir="false" afterPath="$PROJECT_DIR$/bin/xcformat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +18,16 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/Cellar/go/1.12.6/libexec" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1PeGPNJWIh6dF5BLsmCbMXp646P" />
   <component name="ProjectLevelVcsManager">
@@ -43,7 +45,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="go.dep" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,7 +82,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
